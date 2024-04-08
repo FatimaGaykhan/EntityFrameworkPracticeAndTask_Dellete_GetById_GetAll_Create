@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{361F0436-22C3-430A-AC8D-60C4FF072B36}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EntityFrameworkConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFrameworkConsole/Program.cs">
+    <Files>
+      <File FileName="EntityFrameworkConsole/Services/Interfaces/ICountryService.cs" Line="11" Column="41" />
+      <File FileName="EntityFrameworkConsole/Services/Interfaces/ICityService.cs" Line="8" Column="3" />
+      <File FileName="EntityFrameworkConsole/Services/CityService.cs" Line="47" Column="13" />
+      <File FileName="EntityFrameworkConsole/Services/CountryService.cs" Line="48" Column="10" />
+      <File FileName="EntityFrameworkConsole/Controllers/CityController.cs" Line="93" Column="12" />
+      <File FileName="EntityFrameworkConsole/Controllers/SettingController.cs" Line="63" Column="17" />
+      <File FileName="EntityFrameworkConsole/Program.cs" Line="54" Column="41" />
+      <File FileName="EntityFrameworkConsole/Models/City.cs" Line="1" Column="1" />
+      <File FileName="EntityFrameworkConsole/Services/Interfaces/ISettingService.cs" Line="8" Column="3" />
+      <File FileName="EntityFrameworkConsole/Services/SettingService.cs" Line="45" Column="12" />
+      <File FileName="EntityFrameworkConsole/Controllers/CountryController.cs" Line="68" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityFrameworkConsole" expanded="True">
+            <Node name="EntityFrameworkConsole" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
